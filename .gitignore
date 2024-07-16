@@ -3,3 +3,7 @@
 /tests_full.xlsx
 /~$tests_full.xlsx
 /~$edited_output.xlsx
+/tests_lg.xlsx
+/tests_md.xlsx
+/*_vectorized_output_*
+!/*_vectorized_output_[0-7]*
