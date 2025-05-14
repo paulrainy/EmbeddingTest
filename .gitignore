@@ -26,3 +26,6 @@
 /autotest_without_comments.txt
 /253951.xlsx
 /another_autotest.txt
+
+.venv
+.conda
